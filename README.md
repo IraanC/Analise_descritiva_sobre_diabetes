@@ -1,7 +1,7 @@
 <h2>Visão Geral </h2>
 <p>
   Este Dashboard foi feito com Power BI utilizadndo uma base de dados do 
-  <a scr="https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset">Kaggle</a>
+  <a href="https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset">Kaggle</a>
   Sobre Diabetes. 
 </p>
 <p>
