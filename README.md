@@ -15,9 +15,11 @@
 </ul>
 
 
-<h2>DASHBOARD</h2>
-<img src="https://i.postimg.cc/zBsn8bTz/powerbi.jpg">
-
+<h2>Relatório </h2>
+<h4>Clique na imagem para ver o relatório com detalhes ... </h4>
 <a href= "https://app.powerbi.com/groups/me/reports/44adc3a4-0ab4-4834-971a-e204f6fd87c9?ctid=6db54577-32fc-4f10-8106-7c84b9a6297b&pbi_source=linkShare">
-  <h3> Link do Relatório </h3>
+   <img src="https://i.postimg.cc/zBsn8bTz/powerbi.jpg">
 </a>
+
+
+
